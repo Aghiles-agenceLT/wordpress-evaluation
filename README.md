@@ -4,7 +4,13 @@ Evaluation d'entraînement
 
 Créer un site avec Wordpress :
 
-URL de connexion : https://cooltravel.wordifysites.com/studi-login
+Connexion au site de développement :
+
+ID : wordify
+
+Mot de passe : kgsgokwu
+
+URL de connexion à l'admin : https://cooltravel.wordifysites.com/studi-login
 
 Administrateur : 
 ID : xldditqr
