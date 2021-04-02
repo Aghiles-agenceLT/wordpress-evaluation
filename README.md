@@ -17,3 +17,10 @@ Mot de passe : y(x5JcP1ONgMvk@bZm^q52!0
 Thème : Hello Elementor
 Thème enfant : Hello child
 Contructeur de page : Elementor
+
+DB_HOST : localhost
+
+DB_NAME : xldditqr_yb64kje
+
+DB_PASSWORD : -!9epp4S9p
+
