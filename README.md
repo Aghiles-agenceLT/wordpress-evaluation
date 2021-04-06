@@ -30,3 +30,10 @@ DB_NAME : xldditqr_yb64kje
 
 DB_PASSWORD : -!9epp4S9p
 
+
+Accès au site de développement en tant que visiteur :
+
+ID : wordify
+
+Mot de passe : kgsgokwu
+
